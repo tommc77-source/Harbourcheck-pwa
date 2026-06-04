@@ -1,0 +1,23 @@
+{
+  "name": "HarbourCheck",
+  "short_name": "HarbourCheck",
+  "description": "Marine maintenance checklist app for harbour masters",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B3D5C",
+  "theme_color": "#0B3D5C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
